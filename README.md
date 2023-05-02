@@ -1,6 +1,7 @@
 # Schedule-Your-Day
 Challenge 5 Work Day Scheduler.
-##Acceptance Criteria 
+
+## Acceptance Criteria 
 In this challenge we were tasked to create a simple work day scheduler using Day.js, jQuery and API's.
 we refractored the code to meet the following requirements.
 *Display time at the top of the page
